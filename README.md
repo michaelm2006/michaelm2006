@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2024 - To: 04 August 2024
+From: 22 May 2024 - To: 05 August 2024
 
-Total Time: 5 hrs 9 mins
+Total Time: 5 hrs 27 mins
 
-C#      5 hrs 6 mins    >>>>>>>>>>>>>>>>---------   65.16 %
-Other   2 hrs 41 mins   >>>>>>>>>----------------   34.24 %
+C#      5 hrs 24 mins   >>>>>>>>>>>>>>>>---------   64.44 %
+Other   2 hrs 56 mins   >>>>>>>>>----------------   35.01 %
 ```
 
 <!--END_SECTION:waka-->
